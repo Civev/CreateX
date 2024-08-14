@@ -6,4 +6,5 @@ $(function() {
         $(this).addClass('directions__filter-btn--active')
 
     })
+    $('.team__slider').slick({})
 })
